@@ -2,19 +2,19 @@
 Aplikasi Web (Back office Bengkel) dan bisa juga untuk usaha lainnya, lengkap dengan sistem Akuntasi
 Menerapkan sistem Sidebar Multitabs agar lebih mudah bernavigasi me-minimalisasi-kan buka tutup antar form
 Aplikasi ini sudah 95% berfungsi dengan baik.
-1. Master Barang + Jasa dengan pengelompokkan / grup 
+1️⃣. Master Barang + Jasa dengan pengelompokkan / grup 
   * Spare part
   * Material
   * Jasa
 <img width="1616" height="750" alt="image" src="https://github.com/user-attachments/assets/a18f09ac-bad6-4182-b9d2-dd586767f59e" />
 
-2. Master Pemasok (Standar + NPWP)
+2️⃣. Master Pemasok (Standar + NPWP)
 <img width="1618" height="746" alt="image" src="https://github.com/user-attachments/assets/3eab8f37-7cf1-4f6e-8a59-306a8080aefc" />
 
-3. Master Pelanggan (Nopol + NPWP ... dst )
+3️⃣. Master Pelanggan (Nopol + NPWP ... dst )
 <img width="1619" height="747" alt="image" src="https://github.com/user-attachments/assets/2135b086-3e45-4b5c-81ab-d9741e6b9257" />
 
-4. Pembelian (Beli + Retur Beli)
+4️⃣. Pembelian (Beli + Retur Beli)
 <img width="1614" height="746" alt="image" src="https://github.com/user-attachments/assets/54110ff0-c28d-4dce-af0f-9102a6b85181" />
 
   * Report (Bukti Pembelian)
