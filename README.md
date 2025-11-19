@@ -2,6 +2,7 @@
 Aplikasi Web (Back office Bengkel) dan bisa juga untuk usaha lainnya, lengkap dengan sistem Akuntasi
 Menerapkan sistem Sidebar Multitabs agar lebih mudah bernavigasi me-minimalisasi-kan buka tutup antar form
 Aplikasi ini sudah 95% berfungsi dengan baik.
+
 1️⃣. Master Barang + Jasa dengan pengelompokkan / grup 
   * Spare part
   * Material
