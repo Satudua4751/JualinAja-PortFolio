@@ -76,6 +76,9 @@ Aplikasi ini sudah 95% berfungsi dengan baik.
   * Mutasi Jurnal per COA
   * Dst
 
+![CI/CD Status](https://github.com/Satudua4751/JualinAja-PortFolio/actions/workflows/deploy.yml/badge.svg)
+
+
 Well sisanya hanya report dan proses2 lain-lainnya yang mungkin masih bisa ditambahkan sesuai permintaan.
 Karena report itu tergantung dari inputnya.
 Lihat ini https://www.youtube.com/watch?v=4t1s0OVbENM
