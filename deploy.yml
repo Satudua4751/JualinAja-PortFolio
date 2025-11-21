@@ -1,6 +1,5 @@
 name: PHP Native CI/CD via FTP
 
-# Trigger workflow saat push ke branch main atau development
 on:
   push:
     branches:
@@ -22,7 +21,7 @@ jobs:
         echo "Checking PHP syntax..."
         find . -type f -name "*.php" -exec php -l {} \;
 
-    # Step 3: Upload ke server via FTP (hanya jika branch main)
+    # Step 3: Deploy ke server via FTP (hanya untuk branch main)
     - name: Deploy to Hosting via FTP
       if: github.ref == 'refs/heads/main'
       uses: SamKirkland/FTPUpload@v2.0.0
@@ -33,6 +32,6 @@ jobs:
         local-dir: "./"
         server-dir: "/public_html/jualinaja/"
 
-    # Step opsional: hanya memberi notifikasi di logs
+    # Step 4: Logging
     - name: Done
-      run: echo "CI/CD PHP Native workflow finished."
+      run: echo "✅ CI/CD PHP Native workflow finished."
